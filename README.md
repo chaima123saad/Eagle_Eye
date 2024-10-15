@@ -9,14 +9,14 @@ Customizable Model: Users can train the YOLOv5 model with their own datasets to 
 User-Friendly Interface: Simple integration with minimal setup, allowing users to focus on analysis rather than configuration.<br/>
 Result Visualization: Detected objects are highlighted with bounding boxes and displayed alongside confidence scores, providing immediate feedback on detection performance.<br/>
 <hr/>
-<h4>Applications:</h4>h4><br/>
+<h4>Applications:</h4><br/>
 Eagle Eye can be utilized in various fields, including:<br/>
 Security and Surveillance: Monitor and identify individuals in real-time.<br/>
 Retail Analytics: Track customer behavior and product interactions through visual data.<br/>
 Traffic Management: Analyze vehicular and pedestrian traffic for smart city applications.<br/>
 Sports Analysis: Enhance game strategy by tracking player movements and interactions.<br/>
 <hr/>
-<h4>Technologies Used:</h4>h4><br/>
+<h4>Technologies Used:</h4><br/>
 YOLOv5: A state-of-the-art real-time object detection model.<br/>
 PyTorch: An open-source machine learning library used for implementing deep learning models.<br/>
 OpenCV: A computer vision library that enables real-time image processing and video capture.<br/>
