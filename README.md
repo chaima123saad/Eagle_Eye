@@ -1,7 +1,7 @@
 # Eagle_Eye
 Eagle Eye is an advanced object detection application designed to analyze images and videos in real time. Utilizing the YOLOv5 model, this project leverages deep learning techniques to accurately identify and classify various objects within visual data.
 
-Key Features:
+Key Features:</hr>
 Real-Time Object Detection: Process images and videos seamlessly with high accuracy.
 Search Objects by Color or Name: Quickly identify specific objects based on their color or label, making it easier to find what you need in a cluttered environment.
 Identification of People: Detect and recognize individuals within images and videos, facilitating applications in security and surveillance.
